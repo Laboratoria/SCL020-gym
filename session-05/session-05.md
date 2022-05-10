@@ -1,4 +1,4 @@
-# Sesión 5 (08-05-2022)
+# Sesión 5 (10-05-2022)
 
 ## Ejercicios
 
@@ -16,7 +16,7 @@
 ### Intermediate
 
 - [**CSS Sunset**](exercises/css-sunset/README.md)
-- [**JS Format words into a sentence**](../exercises/format-words/README.md)
+- [**JS Format words into a sentence**](exercises/format-words/README.md)
 
 ## Kahoot
 
