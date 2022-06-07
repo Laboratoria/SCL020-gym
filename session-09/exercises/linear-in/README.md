@@ -13,12 +13,12 @@ projects:
 [https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1)
 
 Dados dos arrays de ints ordenados de forma creciente,
-devuelve true si todos os números do segundo array
-aparecen em el primero.
+devuelve true si todos los números del segundo array
+aparecen en el primero.
 
 Nota: La mejor solución hace una sola pasada "lineal"
-por ambas matrizes, aprovechando que ambas matrizes
-ya está ordenado.
+por ambas matrices, aprovechando que ambas matrices
+ya están ordenadas.
 
 **Ejemplo**
 
