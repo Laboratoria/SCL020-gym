@@ -12,9 +12,9 @@ projects:
 
 [https://the-winter.github.io/codingjs/exercise.html?name=canBalance&title=Array-3](https://the-winter.github.io/codingjs/exercise.html?name=canBalance&title=Array-3)
 
-Dado um array não vazio, retorne `true` se houver um lugar
-para dividir a matriz de modo que a soma dos números de
-um lado é igual à soma dos números do outro lado.
+Dado un array no vacío, retorne `true` si hay un lugar
+dividir la matriz de modo que la suma de los números de
+un lado es igual a la suma de los números del otro lado.
 
 __Ejemplo__
 
