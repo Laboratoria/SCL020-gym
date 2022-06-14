@@ -1,4 +1,4 @@
-# Sesión 12
+# Sesión 10 (14-06-2022)
 
 ## Ejercicios
 
