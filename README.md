@@ -17,3 +17,4 @@
 - ### Sesión 13 (Mock Mock inteview)
 - ### [Sesión 14](./session-14/session-14.md)
 - ### [Sesión 15](./session-15/session-15.md)
+- ### [Sesión 16](./session-16/session-16.md)
