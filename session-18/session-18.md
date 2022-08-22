@@ -28,7 +28,7 @@ Ideas para abordar esto (3 de las más votadas):
 
 ### Ideas más votadas (de las demás oportunidades de mejora):
 
--Tener jornadas de gym-camp con coaches regionales para reforzamiento.
--Tener algunas instancias de OH colectivas para dudas del gym.
+- Tener jornadas de gym-camp con coaches regionales para reforzamiento.
+- Tener algunas instancias de OH colectivas para dudas del gym.
 - Taller o sesión electiva dentro de la semana para resolver ejercicios dentro de un tipo de ‘office hour’ para que las que quieran resuelvan dudas sin interrumpir las office hour de los proyectos.
--Un Coach flotante dirigido solo al Gym.
+- Un Coach flotante dirigido solo al Gym.
