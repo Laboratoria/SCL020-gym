@@ -18,3 +18,5 @@
 - ### [Sesión 14](./session-14/session-14.md)
 - ### [Sesión 15](./session-15/session-15.md)
 - ### [Sesión 16](./session-16/session-16.md)
+- ### [Sesión 17 - Retrospectiva "mock tech interview"](./session-17/session-17.md)
+- ### [Sesion 18 - Restrospectiva "cierre de gimnasio"](./session-18/session-18.md)
